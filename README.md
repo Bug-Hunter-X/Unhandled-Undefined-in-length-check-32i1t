@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript error: improperly handling undefined values when checking for null. The original code fails when given an undefined value because it does not explicitly check for undefined.  The solution adds a check for undefined to prevent the TypeError.
